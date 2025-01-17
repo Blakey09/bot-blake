@@ -1,2 +1,2 @@
-# bot-blake
+# general
 hey yall
